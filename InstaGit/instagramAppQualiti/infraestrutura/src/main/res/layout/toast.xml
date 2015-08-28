@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/toast"
+    android:layout_height="wrap_content"
+    android:paddingLeft="35dp"
+    android:gravity="center"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="@drawable/infra_toast_background"
+    android:paddingRight="35dp">
+
+    <TextView
+        android:id="@+id/toastTexto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/infra_branco"
+        android:textSize="12sp"
+        tools:text="Mensagem de aviso curto Toast" />
+
+
+</LinearLayout>

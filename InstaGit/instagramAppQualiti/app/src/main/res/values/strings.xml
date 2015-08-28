@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram</string>
+
+    <string name="hello_world">Bem Vindo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="baixar">Baixar</string>
+    <string name="ola_amigo">Bem Vindo ao Instagram!</string>
+    <string name="title_activity_detalhe_instagram">Último Comentário</string>
+</resources>

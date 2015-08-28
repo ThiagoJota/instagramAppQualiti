@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Infraestrutura</string>
+
+    //******** Mensagens de Erro **********//
+    <string name="erro_inesperado">Aconteceu um erro inesperado!</string>
+    <string name="sem_conexao">Sem conexão com a internet.</string>
+    <string name="bateria_fraca">Bateria fraca, recarregue.</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+</resources>

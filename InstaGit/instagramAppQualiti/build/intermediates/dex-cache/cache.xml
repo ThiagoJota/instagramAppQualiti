@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/org.ocpsoft.prettytime/prettytime/4.0.0.Final/72bec9d6b648dd4e0b51d15c5008070205613559/prettytime-4.0.0.Final.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="72bec9d6b648dd4e0b51d15c5008070205613559">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/prettytime-4.0.0.Final-651525b687bbccca520851a34f1a2f8a9de58680.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.jakewharton.espresso/espresso-runner-runtime/1.1-r3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b6d57d4b08dd070b2a4d2e7aafe5a031d14901">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-f24c4fdc5566015f22cc2617fe039f5fba941aa8.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.3/eecdac8c86bc84b4bdfc24371ba8c785a1fc552/commons-lang-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/commons-lang-2.3-dbe8d1f1a163b94ce4dc59282c28b28075876fa1.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/support-annotations-22.2.1-21d38864455b5b5181e9daa7124514cf38bc04ae.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/gson-2.3.1-807a5bb9733643fc0f4e27cb6def21806c396020.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.jakewharton.espresso/espresso-runner/1.1-r3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="925f97e2a2d8f082a6a82d11e189af7f686785b6">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-b66e23f6bf39fc94f18565c665706806c082c742.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/okhttp-2.4.0-9f9bff22b6884c8cf8b69bebd266917f9d0d4088.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0/aca09d2e5e8416bf91550e72281958e35460be52/guava-16.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aca09d2e5e8416bf91550e72281958e35460be52">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/guava-16.0-816f1fb3a047f45041692e5ca7c9f410b019ead1.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.1/78f96ef00fceee95802930944b1fc4e0e1f9aacc/dagger-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78f96ef00fceee95802930944b1fc4e0e1f9aacc">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/dagger-1.2.1-adf8b6d80e41da39542e2ee4f5af2617c1b02e84.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/hamcrest-library-1.1-c3b7441a7577e9568c05a914432dfd2767e0e85b.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/hamcrest-integration-1.1-8bfc799ad48367e384aee4ab7cce603e54f1c21d.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/hamcrest-core-1.1-21245a80c5d0b9de139f0cee701077e0a4a4cd6c.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/retrofit-1.9.0-4ab35326795b1a9fc7cf3003a749026c1eea2273.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/universal-image-loader-1.9.4-71bb43f9c391625c21e9ff10ce4728816d3c7d51.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/Instagram/infraestrutura/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="006b83fe6c40a3698e5dd8e4c92d382d136ec57f">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-c72763e72b373b8e825f9a48dd2819f176e6d6ca.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/javax.inject-1-e74461e413b2292eabab88f239739f9faf625f8c.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/jsr305-1.3.9-04d187aa33a2693c05f91ad2e16e1ec28f0a473c.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.jakewharton.espresso/espresso/1.1-r3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5cd5b71da995a1aebb024f89c3c40d7f5e050274">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-5e8fce855d0c401822933854027731f197dec81d.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/javax.annotation-api-1.2-384c7f17bc242e173800af82ea8315eaa6210303.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/okio-1.4.0-a3a0007238a982d6ad8f64e3b70396eb4e0a5c79.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-8cf6d604df56880b530593099c7b34030ff09612.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/classes-bd9c0b16182023d0cf2cf71de070c3bed7a7a2f4.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/butterknife-6.1.0-9b197b37416a9b4cc66cead1c7f96c60efbdd8f0.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/eventbus-2.4.0-1bfcfc1665f79cdebf114fe87e9cf2dcd3f5b4b2.jar" />
+    </item>
+    <item
+        jar="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/diogomonteiro/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/desenvolvimento/release/internal_impl-22.2.1-f700e551cffdf29b84fc74f21732221af87cab2c.jar" />
+    </item>
+
+</items>

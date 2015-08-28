@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "br.com.android.curso.equipe.instagram"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors{
+
+        desenvolvimento{
+            buildConfigField("String", "BASE_URL", ' "https://api.instagram.com/v1/users/self/media" ')
+        }
+
+        producao{
+            buildConfigField("String", "BASE_URL", ' "xxxxxx" ')
+        }
+    }
+
+    packagingOptions{
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'LICENSE.txt'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.4'
+    compile project(':infraestrutura')
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="infra_branco">#ffffff</color>
+    <color name="infra_preto">#000000</color>
+    <color name="infra_laranja">#ec8a27</color>
+</resources>
